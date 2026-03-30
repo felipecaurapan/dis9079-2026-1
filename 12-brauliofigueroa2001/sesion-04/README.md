@@ -46,4 +46,10 @@ CÓDIGO EN ARDUINO
 
 - mqttClient.setUsernamePassword (mqttID,mqttPass); aquí va la ID y la password
 
+- no pueden llamarse ambos arduinos de la misma forma, deben tener distintos nombres para poder distinguir el que envía del que recibe
+
+- humillada en vivo, el arte de fallar espectacularmente en vivo, es la única clase en las que he estado en las que nos enfrentamos a esto, me gusta esta clase
+
+- 
+
 - 
