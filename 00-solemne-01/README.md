@@ -55,27 +55,33 @@ como curso dividimos 32 estudiantes en 11 grupos.
 
 ## instrucciones
 
-en equipos llenar la bitácora.
+en grupos llenar cada carpeta, les ruego NO cambiar los nombres de las carpetas y los archivos, para que el proceso de evaluación sea más fluida.
 
 ## pauta
 
 la nota tiene 1 punto base más 6 puntos evaluados.
 
-los 3 primeros puntos son criterios individuales
-los 3 siguientes puntos son criterios grupales
+- los 3 primeros puntos son criterios grupales.
+- los 3 siguientes puntos son criterios individuales.
 
-individual:
+este es el desglose:
 
-- 1 punto por calidad de la presentación oral
-- 1 punto por bitácora personal textual y visual del trabajo en clases e investigación personal
-- 1 punto por aportes al README.md grupal de texto y visuales explicativas, por las referencias
+1. grupal - valentía de tomar este curso nuevo y resiliencia ante las dificultades.
 
-grupal:
+2. grupal - usar código un experimento de enviar información entre dos placas distintas conectadas a dos computadores distintos, vía Adafruit IO.
 
-- 1 punto por diagrama de flujo del proyecto
-- 1 punto por calidad del código fuente para enviar y para recibir
-- 1 punto por funcionamiento del sistema
-  - 1 punto: el sistema puede enviar y recibir mensajes
-  - 0.5 puntos: el sistema solamente envía o recibe mensajes
-  - 0.3 puntos: intentos de enviar o recibir mensajes, aunque no funcionen
-  - 0.0 puntos: los intentos no se entienden, no tienen comentarios, están desordenados
+3. grupal - documentación textual en github de todo el trabajo y los aprendizajes del proyecto realizado con Adafruit IO.
+
+4. individual - bitácoras individuales de las sesiones de clases, esto se evaluará en las subcarpetas que tiene cada estudiante.
+
+5. individual - investigación individual de tutoriales de Adafruit IO, documentar textual y visualmente (pantallazos) proceso de instalación en tu computador, aprendizajes, dificultades.
+
+6. individual - investigación en bitácora personal sobre alguna artista, diseñadora o producto que usa electrónica o computación inalámbricas, por ejemplo: la obra de rafael lozano-hemmer, de lauren lee mccarthy, de kyle mcdonald.
+
+para los puntos 5. y 6. se evaluará la profundidad de la investigación, la claridad de la documentación y el esfuerzo demostrado en la investigación. se escribe en los archivos `persona-01.md`,  `persona-02.md` y `persona-03.md`, donde cada estudiante debe plasmar la investigación realizada por y durante la solemne-01.
+
+## tutoriales para empezar
+
+usaremos Adafruit IO para enviar información entre dos placas distintas conectadas a dos computadores distintos, vía Adafruit IO.
+
+- tutorial de Adafruit IO: <https://learn.adafruit.com/adafruit-io-basics-feather-m0-wifi/overview>
