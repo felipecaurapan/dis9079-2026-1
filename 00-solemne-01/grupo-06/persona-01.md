@@ -41,9 +41,9 @@ Saqué el pantallazo antes de que se descargara por completo pero si se instaló
 En general me llamó la atención que las descargas fueran tan rápidas, pensé que tendría que dejar el computador por horas!!, no tuve dificultades durente los procesos de descarga, sólo al inicio, como comenté anteriormente, me intriga saber cómo funcionan estos sistemas, personalmente todo esto es nuevo para mí, considero un desafío personal el haber tomado este ramo, espero poder aprender mucho sobre ésta area a lo largo del semestre!!
 
 
-# sobre artista, diseñadora o producto que usa electrónica o computación inalámbricas
+## sobre artista, diseñadora o producto que usa electrónica o computación inalámbricas
 
-## Producto Elegido -> ***Raspberry Pi Pico 2 W***
+# Producto Elegido -> ***Raspberry Pi Pico 2 W***
 
 <img width="1000" height="1000" alt="pi-pico-2W" src="https://github.com/user-attachments/assets/c656b73e-61c7-4020-a148-aea33a9df131" />
 
