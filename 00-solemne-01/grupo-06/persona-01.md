@@ -68,7 +68,7 @@ Elegí este producto porque me llamó la atención desde que la vi en clases, es
 También me parece interesante que, a pesar de ser una placa pequeña, tiene muchas capacidades, como conectarse a WiFi y ejecutar código en Python como dijo Aarón en clases. Esto la hace fácil de usar pero a la vez muy potente para crear proyectos interactivos.
 
 <img width="1620" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d808ed7-975e-4f84-914b-6d753789ed4d" />
-
+me gusta el logo de frambuesa, es muy cute <3
 
 ## Relación con el proyecto
 
