@@ -1,4 +1,4 @@
-# persona-01
+# persona-01 - Renata Arévalo Urra
 
 investigaciones individuales
 
